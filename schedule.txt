@@ -1,0 +1,8 @@
+	All that Piece and parcel of land with common passage and building, comprised in T S No.356/3 measuring to an extent of #{EXTENT}  Sq.ft, situated at Ward 6, Nagal Nagar, Dindigul Municipal Limit & District; 
+
+Bounded by
+
+North by	: 	#{NORTH BY}
+South by	:  	#{SOUTH BY}
+East by	: 	#{EAST BY}
+West by	: 	#{WEST BY}

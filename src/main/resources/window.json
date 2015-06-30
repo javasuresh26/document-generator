@@ -1,0 +1,24 @@
+[
+    {
+        "menuTitle": "File",
+        "mnemonic": "f",
+        "menuItem": [
+            {
+                "className": "string",
+                "imageIcon": "images/save.gif",
+                "menuTitle": "Generate Document",
+                "shortcut": "CTRL-G",
+                "separator": false,
+                "hasToolbar": false
+            },
+            {
+                "className": "string",
+                "imageIcon": "images/cancel.gif",
+                "menuTitle": "Exit",
+                "shortcut": "CTRL-X",
+                "separator": false,
+                "hasToolbar": false
+            }
+        ]
+    }
+]
